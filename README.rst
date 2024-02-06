@@ -92,7 +92,7 @@ Known bugs and quirks
 TODO
 ====
 
-* Cleanup: This module has it's own pyasn1 models. Look if we can
+* Cleanup: This module has its own pyasn1 models. Look if we can
   reuse the pyasn1_modules.rfc2459 X509 cert model.
 
 * Cleanup: Currently, the signature verifier does not work.
